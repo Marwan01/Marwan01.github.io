@@ -17,9 +17,9 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
-  # sort_by options:
-  #   - pushed
+  # sort_by: stars
+  sort_by options:
+    - pushed
   #   - stars
   limit: 9
   exclude:
@@ -31,12 +31,12 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: marwanest
   # instagram: your_username
   # keybase: your_username
   linkedin: marouen-helali
   medium: marwan.helali01
-  # stackoverflow: marwan-helali
+  stackoverflow: 11400912
   # telegram: your_username
   twitter: marwanest1
   # unsplash: your_username
@@ -54,9 +54,9 @@ topics:
     web_url: https://github.com/topics/React
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
-  - name: Golang
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
+  - name: Vue
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
 
   - name: Firebase
     web_url: https://github.com/topics/Firebase
@@ -70,16 +70,16 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Vue
-    web_url: https://github.com/topics/vue
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
-
-  - name: npm
-    web_url: https://github.com/topics/npm
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png
+  - name: nodejs
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/nodejs/nodejs.png
 
   - name: MongoDB
     web_url: https://github.com/topics/mongodb
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/mongodb/mongodb.png
+    
+  - name: Golang
+    web_url: https://github.com/topics/go
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
 
 theme: jekyll-theme-slate
